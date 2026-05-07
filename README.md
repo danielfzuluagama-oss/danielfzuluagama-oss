@@ -31,8 +31,14 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=548&message=skills%20cataloged&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="548 skills cataloged" />
   <img src="https://img.shields.io/static/v1?label=196&message=workflows%20available&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="196 workflows available" />
-  <img src="https://img.shields.io/static/v1?label=35&message=assistant%20bundles&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="35 assistant bundles" />
+  <img src="https://img.shields.io/static/v1?label=35&message=legacy%20assistants%20in%20conversion&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="35 legacy assistants in conversion" />
   <img src="https://img.shields.io/static/v1?label=52&message=Nexus%202.0%20feature%20packages&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="52 Nexus 2 feature packages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=524&message=agentic%20modules&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="524 agentic modules" />
+  <img src="https://img.shields.io/static/v1?label=1%2C973&message=embedded%20subagents&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="1973 embedded subagents" />
+  <img src="https://img.shields.io/static/v1?label=35&message=assistant%20blueprints&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="35 assistant blueprints" />
 </p>
 
 ## Diseño apalancamiento operativo
@@ -54,7 +60,9 @@ Este perfil ya no representa solo repos sueltos. Representa un ecosistema operat
 |---|---:|---|
 | **Skills** | **548** | Capacidades reutilizables entre `Antigravity` y `Nexus_Antigravity` |
 | **Workflows** | **196** | Flujos listos para orquestar entrega, análisis, contenido y operación |
-| **Assistant bundles** | **35** | Asistentes fuente en el programa de conversión hacia Nexus 2.0 |
+| **Agentic modules** | **524** | Módulos agénticos heredados en `Nexus/.agents/skills` que sirven como base de diseño y especialización |
+| **Embedded subagents** | **1,973** | Roles especializados embebidos dentro de esos módulos, usados para dividir criterio, ejecución, soporte y guardianía |
+| **Assistant blueprints** | **35** | Asistentes fuente del programa de conversión hacia superficies runtime reales en Nexus 2.0 |
 | **Feature packages** | **52** | Superficies especificadas y trazadas dentro del roadmap de Nexus 2.0 |
 
 Eso se traduce en una práctica concreta: no construyo “prompts bonitos”; construyo **sistemas con memoria, contratos, workflows, gates de calidad y despliegue real**.
@@ -71,6 +79,7 @@ Eso se traduce en una práctica concreta: no construyo “prompts bonitos”; co
 ## Superficies que ya domino
 
 - **Agentes**: diseño y operación de asistentes especializados, bounded agents y orquestación multi-superficie.
+- **Subagentes**: roles embebidos por especialidad para separar estrategia, ejecución, soporte, guardianía y control de calidad.
 - **Skills**: bibliotecas de capacidades reutilizables con patrones, assets y templates.
 - **Workflows**: rutas de ejecución para research, propuestas, contenido, planeación y calidad.
 - **Asistentes heredados**: conversión progresiva de bundles legacy hacia superficies runtime reales en Nexus 2.0.
