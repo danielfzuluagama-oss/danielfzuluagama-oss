@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/ROI-first-operational%20thinking-0A122A?style=flat-square&labelColor=FFD700&color=0A122A" alt="ROI first" />
 </p>
 
-## I build operating leverage
+## Diseño apalancamiento operativo
 
 Convierto retos operativos en sistemas con ROI visible. Mi foco está en conectar **método, producto, automatización e IA** para que la estrategia deje de quedarse en ideas y termine convertida en ejecución real.
 
@@ -39,16 +39,16 @@ Hoy estoy trabajando especialmente en:
 - **Arquitecturas privadas de IA** con OpenClaw, NotebookLM, GitHub y Firebase.
 - **Eficiencia operativa** donde la IA amplifica al experto en vez de reemplazar el criterio.
 
-## What is already live
+## Qué ya está vivo
 
 | Sistema | Qué hace | Estado |
 |---|---|---|
-| **Nexus 2.0** | Runtime agéntico con Firebase, Cloud Run, Telegram, GitHub delivery, Tavily, NotebookLM y OpenClaw | Private / production |
-| **Commercial Proposal Engine** | Investiga clientes, cruza servicios de MetodologIA y entrega propuestas HTML publicables | Private / production |
-| **OpenClaw Private Gateway** | Gateway endurecido con Secret Manager, service account dedicada y sin IP pública | Private / production |
-| **Prompt Factory Conversion** | Superficies canónicas para Forja y Prompt Analyst dentro de Nexus 2.0 | Active build |
+| **Nexus 2.0** | Runtime agéntico con Firebase, Cloud Run, Telegram, GitHub delivery, Tavily, NotebookLM y OpenClaw | Privado / producción |
+| **Commercial Proposal Engine** | Investiga clientes, cruza servicios de MetodologIA y entrega propuestas HTML publicables | Privado / producción |
+| **OpenClaw Private Gateway** | Gateway endurecido con Secret Manager, service account dedicada y sin IP pública | Privado / producción |
+| **Prompt Factory Conversion** | Superficies canónicas para Forja y Prompt Analyst dentro de Nexus 2.0 | En construcción activa |
 
-## Flagship public repositories
+## Repositorios públicos clave
 
 | Repo | Propósito |
 |---|---|
@@ -58,7 +58,7 @@ Hoy estoy trabajando especialmente en:
 | [**Nexus-Backup**](https://github.com/danielfzuluagama-oss/Nexus-Backup) | Historial y respaldo de trabajo alrededor de la evolución del asistente. |
 | [**RecursosAcaddemia**](https://github.com/danielfzuluagama-oss/RecursosAcaddemia) | Recursos y materiales estructurados para formación. |
 
-## What I’m building right now
+## Lo que estoy construyendo ahora
 
 ### Nexus 2.0
 
@@ -77,17 +77,17 @@ Estoy bajando MetodologIA de discurso a runtime:
 
 - catálogo real de servicios
 - workflows reutilizables
-- surfaces canónicas para capacidades heredadas
+- superficies canónicas para capacidades heredadas
 - calidad, seguridad y trazabilidad como parte del sistema
 
-## Operating principles
+## Principios operativos
 
 - **ROI first**: si no mejora decisión, velocidad o claridad, sobra.
 - **Operational sovereignty**: la tecnología debe dejar más control, no más dependencia.
 - **Evidence before acceleration**: primero fundamento, luego velocidad.
 - **AI as leverage**: las máquinas aportan escala; las personas ponen criterio.
 
-## Current stack
+## Stack actual
 
 **AI & orchestration**  
 OpenClaw · NotebookLM · Tavily · multi-LLM routing · prompt systems · research pipelines
@@ -118,10 +118,10 @@ Product management · service packaging · process design · operating systems f
 - **Smart Innovation Touzi** — Product Expert  
   Implementaciones de alto impacto social y técnico con foco en backlog, producto y operación.
 
-## Beyond the build
+## Más allá del build
 
 Me mueve la tecnología que sirve, los documentales, el cine de autor y las conversaciones donde una buena idea termina convertida en sistema. También lidero espacios de contenido y estrategia, y comparto el camino con **Canela**, mi partner más constante.
 
-## Let’s build
+## Conversemos
 
 Si quieres hablar de **agentes, eficiencia, producto, automatización o sistemas con IA que sí aterricen en operación**, escríbeme a [danielfzuluagama@gmail.com](mailto:danielfzuluagama@gmail.com).
