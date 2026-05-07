@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Daniel Zuluaga</h1>
-<p align="center"><strong>Chief Efficiency Officer · Digital Champion · Agentic Systems Builder</strong></p>
+<p align="center"><strong>Chief Efficiency Officer · Digital Champion · Agentic Systems Builder · Consultor en Amaris Consulting</strong></p>
 
 <p align="center">
   <a href="mailto:danielfzuluagama@gmail.com">
@@ -22,10 +22,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/50%25-less%20time--to--market-0A122A?style=flat-square&labelColor=FFD700&color=0A122A" alt="50% less time to market" />
-  <img src="https://img.shields.io/badge/300%25-growth%20mindset-0A122A?style=flat-square&labelColor=FFD700&color=0A122A" alt="300 percent growth mindset" />
-  <img src="https://img.shields.io/badge/160%2B-initiatives%20in%20motion-0A122A?style=flat-square&labelColor=FFD700&color=0A122A" alt="160 plus initiatives in motion" />
-  <img src="https://img.shields.io/badge/ROI-first-operational%20thinking-0A122A?style=flat-square&labelColor=FFD700&color=0A122A" alt="ROI first" />
+  <img src="https://img.shields.io/static/v1?label=50%25&message=less%20time-to-market&color=0A122A&labelColor=FFD700&style=flat-square" alt="50 percent less time to market" />
+  <img src="https://img.shields.io/static/v1?label=300%25&message=growth%20mindset&color=0A122A&labelColor=FFD700&style=flat-square" alt="300 percent growth mindset" />
+  <img src="https://img.shields.io/static/v1?label=160%2B&message=initiatives%20in%20motion&color=0A122A&labelColor=FFD700&style=flat-square" alt="160 plus initiatives in motion" />
+  <img src="https://img.shields.io/static/v1?label=ROI%20first&message=operational%20thinking&color=0A122A&labelColor=FFD700&style=flat-square" alt="ROI first operational thinking" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=548&message=skills%20cataloged&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="548 skills cataloged" />
+  <img src="https://img.shields.io/static/v1?label=196&message=workflows%20available&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="196 workflows available" />
+  <img src="https://img.shields.io/static/v1?label=35&message=assistant%20bundles&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="35 assistant bundles" />
+  <img src="https://img.shields.io/static/v1?label=52&message=Nexus%202.0%20feature%20packages&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="52 Nexus 2 feature packages" />
 </p>
 
 ## Diseño apalancamiento operativo
@@ -39,6 +46,19 @@ Hoy estoy trabajando especialmente en:
 - **Arquitecturas privadas de IA** con OpenClaw, NotebookLM, GitHub y Firebase.
 - **Eficiencia operativa** donde la IA amplifica al experto en vez de reemplazar el criterio.
 
+## Escala actual del ecosistema
+
+Este perfil ya no representa solo repos sueltos. Representa un ecosistema operativo que he venido construyendo y endureciendo:
+
+| Capa | Escala actual | Qué significa |
+|---|---:|---|
+| **Skills** | **548** | Capacidades reutilizables entre `Antigravity` y `Nexus_Antigravity` |
+| **Workflows** | **196** | Flujos listos para orquestar entrega, análisis, contenido y operación |
+| **Assistant bundles** | **35** | Asistentes fuente en el programa de conversión hacia Nexus 2.0 |
+| **Feature packages** | **52** | Superficies especificadas y trazadas dentro del roadmap de Nexus 2.0 |
+
+Eso se traduce en una práctica concreta: no construyo “prompts bonitos”; construyo **sistemas con memoria, contratos, workflows, gates de calidad y despliegue real**.
+
 ## Qué ya está vivo
 
 | Sistema | Qué hace | Estado |
@@ -47,6 +67,14 @@ Hoy estoy trabajando especialmente en:
 | **Commercial Proposal Engine** | Investiga clientes, cruza servicios de MetodologIA y entrega propuestas HTML publicables | Privado / producción |
 | **OpenClaw Private Gateway** | Gateway endurecido con Secret Manager, service account dedicada y sin IP pública | Privado / producción |
 | **Prompt Factory Conversion** | Superficies canónicas para Forja y Prompt Analyst dentro de Nexus 2.0 | En construcción activa |
+
+## Superficies que ya domino
+
+- **Agentes**: diseño y operación de asistentes especializados, bounded agents y orquestación multi-superficie.
+- **Skills**: bibliotecas de capacidades reutilizables con patrones, assets y templates.
+- **Workflows**: rutas de ejecución para research, propuestas, contenido, planeación y calidad.
+- **Asistentes heredados**: conversión progresiva de bundles legacy hacia superficies runtime reales en Nexus 2.0.
+- **Infraestructura agéntica**: Firebase, Cloud Run, Secret Manager, OpenClaw privado, NotebookLM gateway y entrega por GitHub/Telegram.
 
 ## Repositorios públicos clave
 
@@ -80,6 +108,15 @@ Estoy bajando MetodologIA de discurso a runtime:
 - superficies canónicas para capacidades heredadas
 - calidad, seguridad y trazabilidad como parte del sistema
 
+### Consultoría aplicada en Amaris Consulting
+
+También estoy conectado a contextos reales de consultoría donde el foco no es solo construir tecnología, sino usarla para:
+
+- detectar oportunidades de eficiencia y automatización
+- estructurar ofertas de valor con IA
+- aterrizar operaciones, discovery y propuestas comerciales
+- convertir conocimiento disperso en sistemas repetibles
+
 ## Principios operativos
 
 - **ROI first**: si no mejora decisión, velocidad o claridad, sobra.
@@ -105,6 +142,9 @@ Product management · service packaging · process design · operating systems f
 
 - **MetodologIA** — Chief Efficiency Officer  
   Liderazgo de eficiencia, soberanía operativa y aplicación del framework **P.I.V.O.T.E.**
+
+- **Amaris Consulting** — Consultor  
+  Trabajo aplicado en contextos de consultoría, eficiencia operativa, análisis de oportunidades y uso de IA como capacidad de ejecución.
 
 - **IAC (Ingeniería y Automatización)** — Formador técnico de IA  
   Formación práctica en IA generativa, n8n, Make y ChatGPT para optimización real de procesos.
