@@ -1,0 +1,96 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Zuluaga GitHub Profile Banner</title>
+  <desc id="desc">Banner oscuro con acentos dorados y azules para el perfil de Daniel Zuluaga.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08101F"/>
+      <stop offset="1" stop-color="#0F1C38"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFE082"/>
+      <stop offset="1" stop-color="#FFD700"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#5EE6FF"/>
+      <stop offset="1" stop-color="#1DAFFF"/>
+    </linearGradient>
+    <filter id="blurGlow" x="-80" y="-80" width="500" height="500" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+    <filter id="softGlow" x="840" y="40" width="380" height="340" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+
+  <g opacity="0.16">
+    <path d="M0 72H1280" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M0 144H1280" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M0 216H1280" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M0 288H1280" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M0 360H1280" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M106 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M212 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M318 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M424 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M530 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M636 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M742 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M848 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M954 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M1060 0V420" stroke="#7BA2D9" stroke-width="1"/>
+    <path d="M1166 0V420" stroke="#7BA2D9" stroke-width="1"/>
+  </g>
+
+  <g filter="url(#blurGlow)">
+    <circle cx="180" cy="120" r="110" fill="#FFD700" fill-opacity="0.28"/>
+  </g>
+  <g filter="url(#softGlow)">
+    <rect x="900" y="90" width="260" height="240" rx="32" fill="#FFD700" fill-opacity="0.14"/>
+  </g>
+
+  <rect x="68" y="58" width="156" height="28" rx="14" fill="#172949" stroke="#2C4B7C"/>
+  <text x="146" y="77" text-anchor="middle" fill="#FFD700" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">GITHUB PROFILE</text>
+
+  <text x="68" y="155" fill="white" font-family="Arial, sans-serif" font-size="56" font-weight="800">Daniel</text>
+  <text x="68" y="213" fill="url(#gold)" font-family="Arial, sans-serif" font-size="56" font-weight="800">Zuluaga</text>
+
+  <text x="68" y="256" fill="#D9E6FF" font-family="Arial, sans-serif" font-size="24" font-weight="700">
+    Chief Efficiency Officer · Digital Champion
+  </text>
+  <text x="68" y="292" fill="#9DB1D3" font-family="Arial, sans-serif" font-size="22" font-weight="500">
+    Agentic systems · AI operations · product strategy · commercial automation
+  </text>
+
+  <text x="68" y="342" fill="#EAF2FF" font-family="Arial, sans-serif" font-size="20" font-weight="600">
+    Convierto retos operativos en sistemas con ROI visible.
+  </text>
+  <text x="68" y="372" fill="#6EDCFF" font-family="Arial, sans-serif" font-size="18" font-weight="600">
+    Nexus 2.0 · MetodologIA · OpenClaw · NotebookLM · Firebase
+  </text>
+
+  <g>
+    <rect x="865" y="78" width="330" height="264" rx="28" fill="#0D1730" stroke="#253E69"/>
+    <text x="900" y="122" fill="#FFD700" font-family="Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="1.6">CURRENT BUILD SURFACE</text>
+
+    <text x="900" y="168" fill="white" font-family="Arial, sans-serif" font-size="34" font-weight="800">Nexus 2.0</text>
+    <text x="900" y="198" fill="#9DB1D3" font-family="Arial, sans-serif" font-size="18" font-weight="600">Runtime agéntico en servidor</text>
+
+    <rect x="900" y="220" width="116" height="34" rx="17" fill="#16284A"/>
+    <text x="958" y="242" text-anchor="middle" fill="#EAF2FF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Firebase</text>
+
+    <rect x="1030" y="220" width="146" height="34" rx="17" fill="#16284A"/>
+    <text x="1103" y="242" text-anchor="middle" fill="#EAF2FF" font-family="Arial, sans-serif" font-size="13" font-weight="700">OpenClaw</text>
+
+    <rect x="900" y="266" width="146" height="34" rx="17" fill="#16284A"/>
+    <text x="973" y="288" text-anchor="middle" fill="#EAF2FF" font-family="Arial, sans-serif" font-size="13" font-weight="700">NotebookLM</text>
+
+    <rect x="1060" y="266" width="116" height="34" rx="17" fill="#16284A"/>
+    <text x="1118" y="288" text-anchor="middle" fill="#EAF2FF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Tavily</text>
+
+    <text x="900" y="328" fill="#C6D5F0" font-family="Arial, sans-serif" font-size="15" font-weight="600">
+      Research · workflows · HTML proposals
+    </text>
+  </g>
+</svg>
