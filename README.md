@@ -29,16 +29,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=548&message=skills%20cataloged&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="548 skills cataloged" />
-  <img src="https://img.shields.io/static/v1?label=196&message=workflows%20available&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="196 workflows available" />
-  <img src="https://img.shields.io/static/v1?label=35&message=legacy%20assistants%20in%20conversion&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="35 legacy assistants in conversion" />
-  <img src="https://img.shields.io/static/v1?label=52&message=Nexus%202.0%20feature%20packages&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="52 Nexus 2 feature packages" />
+  <img src="https://img.shields.io/static/v1?label=2%2C201&message=skills%20packaged&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="2201 skills packaged" />
+  <img src="https://img.shields.io/static/v1?label=799&message=workflows%20%26%20commands&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="799 workflows and commands" />
+  <img src="https://img.shields.io/static/v1?label=14&message=assistant%20packs&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="14 assistant packs" />
+  <img src="https://img.shields.io/static/v1?label=7&message=IDE%20adapters&color=0A122A&labelColor=1DAFFF&style=flat-square" alt="7 IDE adapters" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=524&message=agentic%20modules&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="524 agentic modules" />
-  <img src="https://img.shields.io/static/v1?label=1%2C973&message=embedded%20subagents&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="1973 embedded subagents" />
-  <img src="https://img.shields.io/static/v1?label=35&message=assistant%20blueprints&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="35 assistant blueprints" />
+  <img src="https://img.shields.io/static/v1?label=4%2C614&message=agents%20%26%20subagents&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="4614 agents and subagents" />
+  <img src="https://img.shields.io/static/v1?label=535&message=rules%20%26%20steering&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="535 rules and steering files" />
+  <img src="https://img.shields.io/static/v1?label=33&message=SOPs&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="33 SOPs" />
+  <img src="https://img.shields.io/static/v1?label=v0.1.0&message=private%20plugin&color=0A122A&labelColor=7BE0B8&style=flat-square" alt="MetodologIA Agentic Plugin v0.1.0" />
 </p>
 
 ## Diseño apalancamiento operativo
@@ -48,22 +49,26 @@ Convierto retos operativos en sistemas con ROI visible. Mi foco está en conecta
 Hoy estoy trabajando especialmente en:
 
 - **Sistemas agénticos en servidor** con memoria, research, workflows y entrega real.
+- **Plugins agénticos portables** para Codex, Claude Code, Gemini CLI, Antigravity, Cursor, VS Code y Kiro.
 - **Automatización comercial** que pasa de contexto a propuesta HTML descargable.
 - **Arquitecturas privadas de IA** con OpenClaw, NotebookLM, GitHub y Firebase.
 - **Eficiencia operativa** donde la IA amplifica al experto en vez de reemplazar el criterio.
 
 ## Escala actual del ecosistema
 
-Este perfil ya no representa solo repos sueltos. Representa un ecosistema operativo que he venido construyendo y endureciendo:
+Este perfil ya no representa solo repos sueltos. Representa un ecosistema operativo que he venido construyendo, endureciendo y empaquetando para entornos agénticos reales.
+
+El **22 de mayo de 2026** publiqué la primera versión privada de `metodologia-agentic-plugin`, un bundle portable y versionado que consolida el trabajo de skills, agentes, workflows, reglas, SOPs y asistentes para instalarse en diferentes IDEs y runtimes de IA.
 
 | Capa | Escala actual | Qué significa |
 |---|---:|---|
-| **Skills** | **548** | Capacidades reutilizables entre `Antigravity` y `Nexus_Antigravity` |
-| **Workflows** | **196** | Flujos listos para orquestar entrega, análisis, contenido y operación |
-| **Agentic modules** | **524** | Módulos agénticos heredados en `Nexus/.agents/skills` que sirven como base de diseño y especialización |
-| **Embedded subagents** | **1,973** | Roles especializados embebidos dentro de esos módulos, usados para dividir criterio, ejecución, soporte y guardianía |
-| **Assistant blueprints** | **35** | Asistentes fuente del programa de conversión hacia superficies runtime reales en Nexus 2.0 |
-| **Feature packages** | **52** | Superficies especificadas y trazadas dentro del roadmap de Nexus 2.0 |
+| **Skills empaquetadas** | **2,201** | Playbooks reutilizables para desarrollo, arquitectura, auditoría, contenido, testing, seguridad, despliegue y operación |
+| **Agentes y subagentes** | **4,614** | Roles especializados para liderazgo, ejecución, soporte, revisión, guardianía y orquestación multiagente |
+| **Workflows y comandos** | **799** | Rutinas paso a paso para discovery, especificación, planificación, implementación, auditoría, documentación y entrega |
+| **Reglas y steering** | **535** | Guías persistentes para mantener criterio, seguridad, calidad, arquitectura, performance y estilo |
+| **SOPs** | **33** | Procedimientos operativos estándar para tareas repetibles y gobierno del sistema |
+| **Assistant packs** | **14** | Paquetes base para convertir asistentes legacy en superficies runtime reales |
+| **Adaptadores IDE/runtime** | **7** | Codex, Claude Code, Gemini CLI, Antigravity, Cursor, Visual Studio Code y Kiro |
 
 Eso se traduce en una práctica concreta: no construyo “prompts bonitos”; construyo **sistemas con memoria, contratos, workflows, gates de calidad y despliegue real**.
 
@@ -71,6 +76,7 @@ Eso se traduce en una práctica concreta: no construyo “prompts bonitos”; co
 
 | Sistema | Qué hace | Estado |
 |---|---|---|
+| **MetodologIA Agentic Plugin** | Empaqueta 2,201 skills, 4,614 agentes/subagentes, 799 workflows/comandos, reglas, SOPs y asistentes con versionamiento e integridad SHA-256 | Privado / publicado en GitHub |
 | **Nexus 2.0** | Runtime agéntico con Firebase, Cloud Run, Telegram, GitHub delivery, Tavily, NotebookLM y OpenClaw | Privado / producción |
 | **Commercial Proposal Engine** | Investiga clientes, cruza servicios de MetodologIA y entrega propuestas HTML publicables | Privado / producción |
 | **OpenClaw Private Gateway** | Gateway endurecido con Secret Manager, service account dedicada y sin IP pública | Privado / producción |
@@ -96,6 +102,15 @@ Eso se traduce en una práctica concreta: no construyo “prompts bonitos”; co
 | [**RecursosAcaddemia**](https://github.com/danielfzuluagama-oss/RecursosAcaddemia) | Recursos y materiales estructurados para formación. |
 
 ## Lo que estoy construyendo ahora
+
+### MetodologIA Agentic Plugin
+
+Un plugin privado, portable y versionado para instalar capacidades agénticas en IDEs y entornos de IA:
+
+- soporte para Codex, Claude Code, Gemini CLI, Antigravity, Cursor, Visual Studio Code y Kiro
+- registro central con procedencia, versión por componente y hash SHA-256
+- documentación bilingüe para instalación y uso por usuarios principiantes
+- adaptadores de proyecto para llevar reglas, steering y contexto operativo a otros repositorios
 
 ### Nexus 2.0
 
